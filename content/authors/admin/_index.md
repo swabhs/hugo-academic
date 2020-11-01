@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Swabha Swayamdipta
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Investigator
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Allen Institute for AI
+  url: "https://allenai.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -43,13 +43,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/swabhz
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/swabhs
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at Allen Institute of Artificial Intelligence, working with Yejin Choi, as part of the MOSAIC team.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include studying bias in datasets - the good, the bad and the ugly. Good biases, such as structural inductive biases beneficial for language understanding, I wrote a PhD thesis on these. On the other hand, crowd-sourced, large-scale datasets are riddled with annotation artifacts which are spurious correlations with unintended effects; I call these the bad biases. And finally, biases can be ugly, when the training data contains a large portion of mislabeled examples, or noise (more on this soon!).
+
+I obtained my PhD from Carnegie Mellon University in May 2019, where I was advised by Noah Smith and Chris Dyer. During most of my PhD I was a visiting student at the Paul G. Allen School of Computer Science at the University of Washington in Seattle.
